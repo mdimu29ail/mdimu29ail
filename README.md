@@ -107,9 +107,9 @@ Stay updated with the latest tutorials and projects by subscribing to my YouTube
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alamimran613&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
-![](https://github-readme-stats.vercel.app/api?username=alamimran613&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=alamimran613&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdimu29ail&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
+![](https://github-readme-stats.vercel.app/api?username=mdimu29ail&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=mdimu29ail&theme=dark&hide_border=false)
 
 <!-- Snake Game Repo View -->
 
@@ -124,7 +124,7 @@ Stay updated with the latest tutorials and projects by subscribing to my YouTube
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=alamimran613&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=mdimu29ail&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 
