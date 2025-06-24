@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Redux**
 
-- 👨‍💻 All of my projects are available at [https://github.com/nurealammiaji](https://github.com/nurealammiaji?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/nurealammiaji](https://github.com/mdimu29ail?tab=repositories)
 
 - 📝 I regularly write articles on [https://nurealammiaji.blogspot.com](https://nurealammiaji.blogspot.com)
 
