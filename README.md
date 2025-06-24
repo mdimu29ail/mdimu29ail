@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **Redux**
 
-- 👨‍💻 All of my projects are available at [https://github.com/nurealammiaji](https://github.com/mdimu29ail?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/mdimu29ail](https://github.com/mdimu29ail?tab=repositories)
 
-- 📝 I regularly write articles on [https://nurealammiaji.blogspot.com]()
+- 📝 I regularly write articles on [https://mdimu29ail.blogspot.com]()
 
 - 💬 Ask me about **HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React, Node, Express, MongoDB, Firebase, JWT, Mongoose, Git, Linux**
 
