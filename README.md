@@ -18,10 +18,10 @@
   - Creating and managing RESTful APIs using Express.js and Node.js
 
   **
+  - I am exploring Next.js.
 
 - 👨‍💻 All of my projects are available at [https://github.com/mdimu29ail](https://github.com/mdimu29ail?tab=repositories)
 
-- 📝 I regularly write articles on [https://mdimu29ail.blogspot.com]()
 
 - 💬 Ask me about **HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React, Node, Express, MongoDB, Firebase, JWT, Mongoose, Git, Linux**
 
