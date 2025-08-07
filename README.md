@@ -9,7 +9,15 @@
 
 <br>
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning
+  **
+  - Developing full-stack web applications using the MERN (MongoDB, Express.js, React.js, Node.js) stack
+
+  - Building responsive and dynamic user interfaces with React.js and Tailwind CSS
+
+  - Creating and managing RESTful APIs using Express.js and Node.js
+
+  **
 
 - 👨‍💻 All of my projects are available at [https://github.com/mdimu29ail](https://github.com/mdimu29ail?tab=repositories)
 
