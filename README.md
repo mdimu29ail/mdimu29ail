@@ -1,7 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=016EEA&size=60&center=true&vCenter=true&width=900&height=100&lines=Assalamu+Alaikum+!;My+name+is+MD+Imamul+Islam.;I+am+a+Web+App+Developer.;Feel+free+to+get+in+touch.;Nice+to+meet+you+!)
 
 <div align="center">
-<img height="300" src="https://github.com/mdimu29ail/mdimu29ail/blob/main/IMG_0966.png"  />
+<img height="300" src="https://github.com/mdimu29ail/mdimu29ail/blob/main/IMG_0966.jpg"  />
 </div>
 
 <h1 align="center">MD Imamul Islam</h1>
